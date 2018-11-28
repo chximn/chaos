@@ -29,7 +29,7 @@ function ord(c) {
 	return c.charCodeAt(0)
 }
 
-const flag = "Shellmates{Ch04S-Is-4-L1f3_sTyl3-==}"
+const flag = "Shellmates{Ch40S-Is-4-L1f3_sTyl3-==}"
 let css = ["\n.c { display: flex; }"]
 let html = ""
 
